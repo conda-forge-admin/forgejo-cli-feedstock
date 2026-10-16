@@ -1,5 +1,5 @@
 context:
-  version: "0.6.0"
+  version: "0.7.0"
 
 package:
   name: forgejo-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://codeberg.org/forgejo-contrib/forgejo-cli/archive/v${{ version }}.tar.gz
-  sha256: 8b91194cb1886f253261a4567ee6f83aa34b05a9637644793f88b40b7110322a
+  sha256: 748ce60eb18e72af83ef3956910933b1e091abf673f12ff9777aea214f6eae40
 
 build:
   number: 0
